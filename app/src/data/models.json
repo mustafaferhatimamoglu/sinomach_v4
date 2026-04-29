@@ -1,0 +1,262 @@
+[
+  {
+    "id": "638-bekoloder-10-tr",
+    "title": "638-Bekoloder",
+    "category": "backhoe-loader",
+    "image": "/images/models/638-bekoloder-10-tr.jpeg",
+    "brochure": "/brochures/638W with Weichai Euro V engine.pdf",
+    "specs": {
+      "Model": "Sinomach 638",
+      "Maksimum Hız": "38 km/h",
+      "Çalışma Ağırlığı": "8500 kg",
+      "Motor Gücü": "74 kW"
+    }
+  },
+  {
+    "id": "620ch-bekoloder-tr",
+    "title": "620CH Bekoloder",
+    "category": "backhoe-loader",
+    "image": "/images/models/620ch-bekoloder-tr.jpeg",
+    "brochure": "/brochures/638W with Weichai Euro V engine.pdf",
+    "specs": {
+      "Model": "Sinomach 620CH",
+      "Çalışma Ağırlığı": "7480 kg",
+      "Motor Gücü": "74 kW",
+      "Kova Kapasitesi": "1.0 m³"
+    }
+  },
+  {
+    "id": "zg012s-mini-excavator-tr",
+    "title": "ZG012S Mini Ekskavatör",
+    "category": "construction",
+    "image": "/images/models/zg012s-tr.png",
+    "brochure": "/brochures/SINOMACH ZG012S.pdf",
+    "specs": {
+      "Model": "Sinomach ZG012S",
+      "Çalışma Ağırlığı": "1200 kg",
+      "Motor Gücü": "10 kW",
+      "Kova Hacmi": "0.02 m³"
+    }
+  },
+  {
+    "id": "zg017s-2-ton-tr",
+    "title": "ZG017S - 1.7 TON",
+    "category": "construction",
+    "image": "/images/models/zg017s-tr.jpeg",
+    "brochure": "/brochures/SINOMACH ZG017S.pdf",
+    "specs": {
+      "Model": "Sinomach ZG017S",
+      "Çalışma Ağırlığı": "1750 kg",
+      "Motor Gücü": "10.1 kW",
+      "Kova Kapasitesi": "0.04 m³"
+    }
+  },
+  {
+    "id": "zg018s-2-ton-1-tr",
+    "title": "ZG018S - 2 TON",
+    "category": "construction",
+    "image": "/images/models/zg018s-2-ton-1-tr.jpeg",
+    "brochure": "/brochures/SINOMACH ZG017S.pdf",
+    "specs": {
+      "Model": "Sinomach ZG018S",
+      "Maksimum Hız": "3.7 km/h",
+      "Kule Dönüş Hızı": "11 rpm",
+      "Motor Gücü": "13.4 kW"
+    }
+  },
+  {
+    "id": "zg036s-4-ton-3-tr",
+    "title": "ZG036S - 4 TON",
+    "category": "construction",
+    "image": "/images/models/zg036s-4-ton-3-tr.jpeg",
+    "brochure": "/brochures/SINOMACH ZG036S new(1).pdf",
+    "specs": {
+      "Model": "Sinomach ZG036S",
+      "Maksimum Hız": "4.3 km/h",
+      "Motor Gücü": "22 kW",
+      "Kova Kapasitesi": "0.14 m³"
+    }
+  },
+  {
+    "id": "zg060s-6-ton-tr",
+    "title": "ZG060S Ekskavatör",
+    "category": "construction",
+    "image": "/images/models/zg060j-6-ton-4-tr.jpeg",
+    "brochure": "/brochures/SINOMACH_ZG060S_欧五_英文.pdf",
+    "specs": {
+      "Model": "Sinomach ZG060S",
+      "Çalışma Ağırlığı": "5850 kg",
+      "Motor Gücü": "36.2 kW",
+      "Kova Kapasitesi": "0.21 m³"
+    }
+  },
+  {
+    "id": "zg065s-crawler-excavator-tr",
+    "title": "ZG065S Ekskavatör",
+    "category": "construction",
+    "image": "/images/models/zg065s-tr.png",
+    "brochure": "/brochures/SINOMACH ZG065S.pdf",
+    "specs": {
+      "Model": "Sinomach ZG065S",
+      "Çalışma Ağırlığı": "5960 kg",
+      "Motor Gücü": "36.8 kW",
+      "Kova Hacmi": "0.22 m³"
+    }
+  },
+  {
+    "id": "zg080j-8-ton-5-tr",
+    "title": "ZG080J - 8 TON",
+    "category": "construction",
+    "image": "/images/models/zg080j-8-ton-5-tr.jpeg",
+    "brochure": "/brochures/SINOMACH ZG080J.pdf",
+    "specs": {
+      "Model": "Sinomach ZG080J",
+      "Çalışma Ağırlığı": "7650 kg",
+      "Motor Gücü": "55 kW",
+      "Kova Kapasitesi": "0.32 m³"
+    }
+  },
+  {
+    "id": "zg150s-excavator-tr",
+    "title": "ZG150S Ekskavatör",
+    "category": "construction",
+    "image": "/images/models/zg150j-15-ton-6-tr.jpeg",
+    "brochure": "/brochures/SINOMACH_ZG150S.pdf",
+    "specs": {
+      "Model": "Sinomach ZG150S",
+      "Çalışma Ağırlığı": "13890 kg",
+      "Motor Gücü": "86 kW",
+      "Kova Kapasitesi": "0.6 m³"
+    }
+  },
+  {
+    "id": "zg180lj-18-ton-tr",
+    "title": "ZG180LJ Tekerlekli Ekskavatör",
+    "category": "construction",
+    "image": "/images/models/zg180j-18-ton-lastikli-8-tr.jpeg",
+    "brochure": "/brochures/ZG180LJ Wheel excavator.pdf",
+    "specs": {
+      "Model": "Sinomach ZG180LJ",
+      "Çalışma Ağırlığı": "17500 kg",
+      "Motor Gücü": "112 kW",
+      "Kova Kapasitesi": "0.6-0.8 m³"
+    }
+  },
+  {
+    "id": "zg220s-heavy-excavator-tr",
+    "title": "ZG220S Ekskavatör",
+    "category": "construction",
+    "image": "/images/models/zg230j-23-ton-9-tr.jpeg",
+    "brochure": "/brochures/ZG220S.pdf",
+    "specs": {
+      "Model": "Sinomach ZG220S",
+      "Çalışma Ağırlığı": "22000 kg",
+      "Motor Gücü": "112 kW",
+      "Kova Hacmi": "1.1 m³"
+    }
+  },
+  {
+    "id": "ge330d-heavy-duty-tr",
+    "title": "GE330D Ağır Hizmet Ekskavatör",
+    "category": "construction",
+    "image": "/images/models/ge330d-tr.png",
+    "brochure": "/brochures/GE330D(20230217).pdf",
+    "specs": {
+      "Model": "Sinomach GE330D",
+      "Çalışma Ağırlığı": "31380 kg",
+      "Motor Gücü": "169 kW",
+      "Kova Kapasitesi": "1.4 m³"
+    }
+  },
+  {
+    "id": "ge520h-52-ton-tr",
+    "title": "GE520H - 52 TON",
+    "category": "construction",
+    "image": "/images/models/ge520h-tr.jpeg",
+    "brochure": "/brochures/GE330D(20230217).pdf",
+    "specs": {
+      "Model": "Sinomach GE520H",
+      "Çalışma Ağırlığı": "51000 kg",
+      "Motor Gücü": "300 kW",
+      "Kova Hacmi": "3.1 m³"
+    }
+  },
+  {
+    "id": "639xw-wheel-loader-tr",
+    "title": "639XW Yükleyici",
+    "category": "wheel-loader",
+    "image": "/images/models/639xw-tr.jpeg",
+    "brochure": "/brochures/638W with Weichai Euro V engine.pdf",
+    "specs": {
+      "Model": "Sinomach 639XW",
+      "Yük Kapasitesi": "1600 kg",
+      "Kova Hacmi": "1.0 m³",
+      "Motor Gücü": "36.8 kW"
+    }
+  },
+  {
+    "id": "906a-compact-loader-tr",
+    "title": "906A Kompakt Yükleyici",
+    "category": "wheel-loader",
+    "image": "/images/models/sinomach-general-tr.jpeg",
+    "brochure": "/brochures/CHANGLIN 906A Brochure.pdf",
+    "specs": {
+      "Model": "Sinomach 906A",
+      "Kova Kapasitesi": "0.6 m³",
+      "Motor Gücü": "60 kW",
+      "Yük Kapasitesi": "1200 kg"
+    }
+  },
+  {
+    "id": "forklift-h-series-tr",
+    "title": "H Serisi Forklift",
+    "category": "forklift",
+    "image": "/images/models/forklift-h-tr.jpeg",
+    "brochure": "/brochures/Changlin FORKLIFT H model 1-4t.pdf",
+    "specs": {
+      "Model": "Sinomach H Serisi",
+      "Taşıma Kapasitesi": "1-4 Ton",
+      "Yakıt Türü": "Dizel / LPG",
+      "Kaldırma Yüksekliği": "3000-6000 mm"
+    }
+  },
+  {
+    "id": "th1840-telehandler-tr",
+    "title": "TH1840 Teleskobik Yükleyici",
+    "category": "telehandler",
+    "image": "/images/models/th1840-tr.jpeg",
+    "brochure": "/brochures/TH1840 Specification_扫描版.pdf",
+    "specs": {
+      "Model": "Sinomach TH1840",
+      "Maksimum Kaldırma": "18 m",
+      "Kaldırma Kapasitesi": "4000 kg",
+      "Motor Gücü": "75 kW"
+    }
+  },
+  {
+    "id": "yto70-tractor-tr",
+    "title": "YTO-70 Traktör",
+    "category": "agriculture",
+    "image": "/images/models/yto70-fixed-tr.png",
+    "brochure": "",
+    "specs": {
+      "Model": "SINOMACH YTO-70",
+      "Beygir Gücü": "70 hp",
+      "Çekiş Tipi": "4x4",
+      "Motor": "Dizel"
+    }
+  },
+  {
+    "id": "yto95-tractor-tr",
+    "title": "YTO-95 Traktör",
+    "category": "agriculture",
+    "image": "/images/models/yto95-fixed-tr.png",
+    "brochure": "",
+    "specs": {
+      "Model": "SINOMACH YTO-95",
+      "Beygir Gücü": "95 hp",
+      "Çekiş Tipi": "4x4",
+      "Motor": "Turbo Dizel"
+    }
+  }
+]

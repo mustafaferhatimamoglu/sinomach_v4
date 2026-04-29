@@ -1,0 +1,80 @@
+{
+  "brand": {
+    "name": "Sinomach Türkiye",
+    "slogan": "Endüstriyel Makineler ve Güçlü Satış Sonrası Destek",
+    "description": "Sinomach Türkiye, endüstriyel makineler ve mühendislik çözümleriyle yüksek performans ve verimlilik sunar. Güçlü satış sonrası destekle iş süreçlerinizi iyileştirin."
+  },
+  "contact": {
+    "distributor": "Türkiye Resmi Distribütörü ve Stok: Karaman Makina",
+    "address": "Hamidiye Mah. Tekmarsan San. Sitesi. 2166. SK No 6 Merkez/Karaman",
+    "phones": [
+      { "name": "Hakan Aşağıdere", "number": "0544 393 83 26", "raw": "+905443938326" },
+      { "name": "Mustafa Capan", "number": "0506 024 64 86", "raw": "+905060246486" }
+    ],
+    "email": "info@sinomach.com.tr",
+    "whatsapp": "https://wa.me/905443938326",
+    "facebook": "https://www.facebook.com/profile.php?id=61565571241418&mibextid=LQQJ4d"
+  },
+  "navLinks": [
+    { "title": "Ana Sayfa", "path": "/" },
+    { "title": "Modellerimiz", "path": "/models" },
+    { "title": "Hakkımızda", "path": "/about" },
+    { "title": "İletişim", "path": "/iletisim" }
+  ],
+  "products": [
+    {
+      "id": "agriculture",
+      "title": "Tarım Makineleri",
+      "description": "Yüksek performanslı ve dayanıklı tarım makineleri ile tarladaki verimliliğinizi maksimize edin.",
+      "features": ["Geniş Hacim", "Düşük Yakıt Tüketimi"]
+    },
+    {
+      "id": "construction",
+      "title": "İnşaat Makineleri",
+      "description": "Zorlu şantiye koşullarında kesintisiz güç sağlayan, sağlam ve güvenilir iş makineleri.",
+      "features": ["Dayanıklı Şasi", "Güçlü Motor"]
+    },
+    {
+      "id": "industrial",
+      "title": "Sanayi Makineleri",
+      "description": "Ağır sanayi ihtiyaçlarına yönelik, son teknolojiyle donatılmış gelişmiş mühendislik ürünleri.",
+      "features": ["Yüksek Verimlilik", "Uzun Ömür"]
+    },
+    {
+      "id": "backhoe-loader",
+      "title": "Bekoloderler",
+      "description": "Yükleme ve kazma işlemlerini tek bir makinede birleştiren çok yönlü iş makineleri.",
+      "features": ["Çok Amaçlı Kullanım", "Yüksek Manevra Kabiliyeti"]
+    },
+    {
+      "id": "forklift",
+      "title": "Forkliftler",
+      "description": "Depolama ve lojistik operasyonlarınız için güçlü ve güvenilir istifleme çözümleri.",
+      "features": ["Hassas Kontrol", "Yüksek Taşıma Kapasitesi"]
+    },
+    {
+      "id": "telehandler",
+      "title": "Teleskobik Yükleyiciler",
+      "description": "Yükseklik ve erişim gerektiren zorlu projeler için mükemmel performans.",
+      "features": ["Geniş Erişim", "Dört Çeker Performans"]
+    },
+    {
+      "id": "wheel-loader",
+      "title": "Tekerlekli Yükleyiciler",
+      "description": "Hızlı ve verimli malzeme taşıma için tasarlanmış yüksek kapasiteli yükleyiciler.",
+      "features": ["Hızlı Çevrim Süresi", "Konforlu Kabin"]
+    }
+  ],
+  "advantages": [
+    { "title": "Geniş Ürün Yelpazesi", "desc": "Tarım, inşaat ve sanayi makineleriyle farklı ihtiyaçlara hitap eder." },
+    { "title": "Yüksek Kalite ve Dayanıklılık", "desc": "Uzun ömürlü ve zorlu çalışma koşullarına uygun makineler üretir." },
+    { "title": "Güçlü Satış Sonrası Destek", "desc": "Yetkili servis, teknik destek ve yedek parça hizmeti sağlar." },
+    { "title": "Yetkili Distribütör Güvencesi", "desc": "Resmi satış noktaları ve garantili ürünlerle güvenli alışveriş imkânı sunar." }
+  ],
+  "whySinomach": [
+    { "title": "Uygun maliyetli çözümler", "desc": "Yüksek kaliteyi rekabetçi fiyatlarla birleştirir." },
+    { "title": "Enerji verimliliği", "desc": "Çevre dostu teknolojilerle düşük yakıt tüketimi sağlar." },
+    { "title": "Küresel güvenilirlik", "desc": "Dünya çapında tercih edilen ve kanıtlanmış bir markadır." },
+    { "title": "Kolay yedek parça temini", "desc": "Hızlı ve ulaşılabilir yedek parça desteğiyle iş kaybını önler." }
+  ]
+}

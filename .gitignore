@@ -1,0 +1,8 @@
+# Zip files
+*.zip
+
+# Dependencies
+node_modules/
+
+# Build output
+app/dist/
