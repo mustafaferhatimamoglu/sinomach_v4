@@ -123,7 +123,7 @@ const ProductDetail = () => {
                   onClick={() => {
                     if (product.brochure) {
                       // Fix for opening PDFs in public folder
-                      window.open(`/${product.brochure}`, '_blank');
+                      window.open(product.brochure, '_blank');
                     } else {
                       alert(`${product.title} için detaylı teknik döküman hazırlanıyor. Lütfen WhatsApp üzerinden iletişime geçiniz.`);
                       window.open(contentData.contact.whatsapp, '_blank');

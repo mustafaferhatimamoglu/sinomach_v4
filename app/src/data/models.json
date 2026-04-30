@@ -29,7 +29,7 @@
     "id": "zg012s-mini-excavator-tr",
     "title": "ZG012S Mini Ekskavatör",
     "category": "construction",
-    "image": "/images/models/zg012s-tr.png",
+    "image": "/images/models/zg012s-new.png",
     "brochure": "/brochures/SINOMACH ZG012S.pdf",
     "specs": {
       "Model": "Sinomach ZG012S",
@@ -81,7 +81,7 @@
     "id": "zg060s-6-ton-tr",
     "title": "ZG060S Ekskavatör",
     "category": "construction",
-    "image": "/images/models/zg060j-6-ton-4-tr.jpeg",
+    "image": "/images/models/zg060s-new.jpeg",
     "brochure": "/brochures/SINOMACH_ZG060S_欧五_英文.pdf",
     "specs": {
       "Model": "Sinomach ZG060S",
@@ -94,7 +94,7 @@
     "id": "zg065s-crawler-excavator-tr",
     "title": "ZG065S Ekskavatör",
     "category": "construction",
-    "image": "/images/models/zg065s-tr.png",
+    "image": "/images/models/zg065s-new.jpeg",
     "brochure": "/brochures/SINOMACH ZG065S.pdf",
     "specs": {
       "Model": "Sinomach ZG065S",
@@ -131,7 +131,7 @@
   },
   {
     "id": "zg180lj-18-ton-tr",
-    "title": "ZG180LJ Tekerlekli Ekskavatör",
+    "title": "ZG180LJ Lastikli Ekskavatör",
     "category": "construction",
     "image": "/images/models/zg180j-18-ton-lastikli-8-tr.jpeg",
     "brochure": "/brochures/ZG180LJ Wheel excavator.pdf",
@@ -198,7 +198,7 @@
     "id": "906a-compact-loader-tr",
     "title": "906A Kompakt Yükleyici",
     "category": "wheel-loader",
-    "image": "/images/models/sinomach-general-tr.jpeg",
+    "image": "/images/models/906a-new.jpeg",
     "brochure": "/brochures/CHANGLIN 906A Brochure.pdf",
     "specs": {
       "Model": "Sinomach 906A",
