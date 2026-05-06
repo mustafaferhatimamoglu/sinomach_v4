@@ -3,7 +3,7 @@
     "id": "638-bekoloder-10-tr",
     "title": "638-Bekoloder",
     "category": "backhoe-loader",
-    "image": "/images/models/638-bekoloder-10-tr.jpeg",
+    "image": "/images/models/638-fixed-tr.png",
     "brochure": "/brochures/638W with Weichai Euro V engine.pdf",
     "specs": {
       "Model": "Sinomach 638",
@@ -29,7 +29,7 @@
     "id": "zg012s-mini-excavator-tr",
     "title": "ZG012S Mini Ekskavatör",
     "category": "construction",
-    "image": "/images/models/zg012s-new.png",
+    "image": "/images/models/zg012s-fixed-tr.png",
     "brochure": "/brochures/SINOMACH ZG012S.pdf",
     "specs": {
       "Model": "Sinomach ZG012S",
@@ -94,7 +94,7 @@
     "id": "zg065s-crawler-excavator-tr",
     "title": "ZG065S Ekskavatör",
     "category": "construction",
-    "image": "/images/models/zg065s-new.jpeg",
+    "image": "/images/models/zg065s-tr.png",
     "brochure": "/brochures/SINOMACH ZG065S.pdf",
     "specs": {
       "Model": "Sinomach ZG065S",
