@@ -7,16 +7,18 @@ const Hero = () => {
   return (
     <div className="relative min-h-[90vh] flex items-center justify-center overflow-hidden">
       {/* Background Image & Overlay */}
-      <div className="absolute inset-0 w-full h-full">
+      <div className="absolute inset-0 w-full h-full bg-[#0a192f]">
+        {/* Main Excavator Background */}
         <img 
-          src="/hero.png" 
-          alt="Heavy Industrial Machinery" 
-          className="w-full h-full object-cover object-center"
-          fetchpriority="high"
+          src="/hero_generated.png" 
+          alt="Sinomach Excavator at Quarry" 
+          className="w-full h-full object-cover object-[75%_center]"
+          fetchPriority="high"
           decoding="async"
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-secondary/90 via-secondary/70 to-transparent"></div>
-        <div className="absolute inset-0 bg-black/30"></div>
+        {/* Gradient overlays to ensure text readability on the left while keeping the machine visible on the right */}
+        <div className="absolute inset-0 bg-gradient-to-r from-secondary/95 via-secondary/80 to-transparent z-0"></div>
+        <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-black/30 z-0"></div>
       </div>
 
       {/* Content */}
